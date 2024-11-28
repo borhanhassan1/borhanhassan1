@@ -10,12 +10,12 @@
 
 
 🏢 I'm a Software Engineer ( Backend Dev ) <br>
-👨‍💻Motivated Computer Science graduate with a solid foundation in backend development, specializing in .NET
-technologies. Proficient in C#, SQL, and ASP.NET Core, with hands-on experience in building web applications.
-Adept at leveraging design patterns, principles, and modern development tools. Enthusiastic about machine learning
-and natural language processing, though primarily focused on backend development. Proven problem-solver with
-competitive programming achievements. Eager to contribute to innovative projects and collaborate with a
-professional development team. <br>
+👨‍💻Motivated Computer Science graduate, ranked 5th in my class, with a solid foundation in backend development
+specializing in .NET and Node.js technologies with hands-on experience building robust web applications and
+RESTful APIs. Skilled in leveraging design patterns, principles, and modern development tools, and also
+experienced in machine learning and natural language processing, though primarily focused on backend
+development. Competitive programming achiever and proven problem-solver, eager to bring innovative solutions
+and collaborate within a professional development team. <br>
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
